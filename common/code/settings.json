@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "1984 - Unbolded",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "vscode-neovim.neovimPath": "/usr/bin/nvim",
+    "vscode-neovim.neovimInitPath": "/home/majda107/.config/nvim/init.vim",
+    "vscode-neovim.useCtrlKeysForNormalMode": false,
+    "vscode-neovim.useCtrlKeysForInsertMode": true,
+    "editor.lineNumbers": "relative",
+    "window.zoomLevel": 0,
+    "python.jediEnabled": false
+}
