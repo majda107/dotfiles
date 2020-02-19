@@ -1,0 +1,5 @@
+set encoding=utf-8
+set rnu
+colorscheme delek
+syntax on
+
