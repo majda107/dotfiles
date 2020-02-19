@@ -1,7 +1,9 @@
 # CLEAN (I USE ARCH BTW) I3 SETUP #
 
 ![image1](https://imgur.com/g8h4Ka9.png)
+___
 ![image2](https://imgur.com/olwVjtN.png)
+___
 ![image3](https://imgur.com/odkCDbO.png)
 
 ## COMMON
