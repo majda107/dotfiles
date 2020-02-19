@@ -1,8 +1,8 @@
 # CLEAN (I USE ARCH BTW) I3 SETUP #
 
-![image1](https://imgur.com/g8h4Ka9)
-![image2](https://imgur.com/olwVjtN)
-![image3](https://imgur.com/odkCDbO)
+![image1](https://imgur.com/g8h4Ka9.png)
+![image2](https://imgur.com/olwVjtN.png)
+![image3](https://imgur.com/odkCDbO.png)
 
 ## COMMON
 - alacritty config
