@@ -1,0 +1,1 @@
+xrandr --auto --output HDMI-0 --mode "2560x1440" --left-of eDP1
