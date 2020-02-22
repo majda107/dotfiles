@@ -5,6 +5,12 @@ Section "Monitor"
     Option         "DPMS"
 EndSection
 
+Section "Monitor"
+    Identifier     "Monitor1"
+    VendorName     "Unknown"
+    ModelName      "Unknown"
+EndSection
+
 Section "Device"
     Identifier     "Device0"
     Driver         "nvidia"
@@ -29,3 +35,18 @@ Section "Screen"
     EndSubSection
 EndSection
 
+Section "Screen"
+    Identifier     "Screen1"
+    Device         "Intel0"
+    Monitor        "Monitor1"
+    DefaultDepth    24
+    SubSection     "Display"
+        Depth       24
+    EndSubSection
+EndSection
+
+Section "ServerLayout"
+    Identifier     "Layout0"
+    Screen         0  "Screen0"
+    Screen         1  "Screen1" RightOf "Screen0"
+EndSection
